@@ -13,3 +13,5 @@ position # 节点的坐标
 Vector2.Up # 获取向前的方向
 normalized # 向量归一化处理
 ```
+
+![day01.gif](./day01.gif)
